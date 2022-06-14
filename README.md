@@ -1,2 +1,2 @@
 # Personal_Trainer
-SQL DB
+MySQL DB. The Software Guild instructions
